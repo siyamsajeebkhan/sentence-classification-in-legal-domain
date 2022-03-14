@@ -1,0 +1,466 @@
+----------------------------------------------------------------------------------------------------
+Citation Nr: 0600090 -----> Header
+----------------------------------------------------------------------------------------------------
+Decision Date: 01/04/06 -----> CaseHeader
+----------------------------------------------------------------------------------------------------
+Archive Date: 01/19/06 -----> CaseHeader
+----------------------------------------------------------------------------------------------------
+DOCKET NO.  04-33 853 -----> CaseHeader
+----------------------------------------------------------------------------------------------------
+DATE -----> Evidence
+----------------------------------------------------------------------------------------------------
+On appeal from the
+Department of Veterans Affairs (VA) Regional Office (RO) in -----> Procedure
+----------------------------------------------------------------------------------------------------
+Togus, Maine -----> Header
+----------------------------------------------------------------------------------------------------
+THE ISSUE -----> Header
+----------------------------------------------------------------------------------------------------
+Entitlement to service connection for post-traumatic stress 
+disorder (PTSD). -----> CaseIssue
+----------------------------------------------------------------------------------------------------
+REPRESENTATION -----> Header
+----------------------------------------------------------------------------------------------------
+Appellant represented by:	Maine Veterans' Services -----> Procedure
+----------------------------------------------------------------------------------------------------
+WITNESS AT HEARING ON APPEAL -----> Header
+----------------------------------------------------------------------------------------------------
+Appellant -----> Procedure
+----------------------------------------------------------------------------------------------------
+ATTORNEY FOR THE BOARD -----> Header
+----------------------------------------------------------------------------------------------------
+C. L. Wasser, Counsel -----> Procedure
+----------------------------------------------------------------------------------------------------
+INTRODUCTION -----> Header
+----------------------------------------------------------------------------------------------------
+The veteran served on active duty from October 1969 to May 
+1972. -----> Procedure
+----------------------------------------------------------------------------------------------------
+This case comes to the Board of Veterans' Appeals (Board) on 
+appeal from a March 2004 decision by the RO in Togus, Maine 
+that denied service connection for PTSD. -----> Procedure
+----------------------------------------------------------------------------------------------------
+A personal hearing 
+was held before an RO hearing officer in June 2004. -----> Procedure
+----------------------------------------------------------------------------------------------------
+A 
+videoconference hearing was held before the undersigned  -----> Procedure
+----------------------------------------------------------------------------------------------------
+Veterans Law Judge in October 2005. -----> Procedure
+----------------------------------------------------------------------------------------------------
+The veteran submitted additional pertinent evidence to the  -----> Procedure
+----------------------------------------------------------------------------------------------------
+Board in October 2005. -----> Procedure
+----------------------------------------------------------------------------------------------------
+As the veteran has waived RO review 
+of this evidence, the Board will consider it. -----> Procedure
+----------------------------------------------------------------------------------------------------
+38 C.F.R. -----> Citation
+----------------------------------------------------------------------------------------------------
+§ 20.1304(c) (2005). -----> Citation
+----------------------------------------------------------------------------------------------------
+FINDINGS OF FACT -----> Header
+----------------------------------------------------------------------------------------------------
+During service the veteran did not engage in combat with the 
+enemy, and it is not shown by credible supporting evidence 
+that a stressor, which might lead to PTSD, occurred during 
+service. -----> EvidenceBasedOrIntermediateFinding
+----------------------------------------------------------------------------------------------------
+CONCLUSION OF LAW -----> Header
+----------------------------------------------------------------------------------------------------
+PTSD was not incurred in or aggravated by active service. -----> ConclusionOfLaw
+----------------------------------------------------------------------------------------------------
+38 -----> Citation
+----------------------------------------------------------------------------------------------------
+U.S.C.A. § 1110 (West 2002); 38 C.F.R. §§ 3.303, 3.304 -----> Citation
+----------------------------------------------------------------------------------------------------
+(2005). -----> Citation
+----------------------------------------------------------------------------------------------------
+REASONS AND BASES FOR FINDINGS AND CONCLUSION -----> Header
+----------------------------------------------------------------------------------------------------
+VCAA -----> Header
+----------------------------------------------------------------------------------------------------
+The Veterans Claims Assistance Act of 2000 (VCAA), Pub. L. -----> Header
+----------------------------------------------------------------------------------------------------
+No. 106-475, 114 Stat. 2096 (Nov. 9, 2000) (codified at  -----> Citation
+----------------------------------------------------------------------------------------------------
+38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5106, 5107, and 5126 
+(West 2002) redefined VA's duty to assist the veteran in the 
+development of a claim. -----> Evidence
+----------------------------------------------------------------------------------------------------
+VA regulations for the 
+implementation of the VCAA were codified as amended at 
+38 C.F.R. §§ 3.102, 3.156(a), 3.159, and 3.326(a) (2005). -----> LegislationAndPolicy
+----------------------------------------------------------------------------------------------------
+The notice requirements of the VCAA require VA to notify the 
+veteran of any evidence that is necessary to substantiate his 
+claim, as well as the evidence VA will attempt to obtain and 
+which evidence he is responsible for providing. -----> LegalRule
+----------------------------------------------------------------------------------------------------
+Quartuccio 
+v. Principi, 16 Vet. App. 183 (2002). -----> Citation
+----------------------------------------------------------------------------------------------------
+In Pelegrini v. Principi, 18 Vet. App. 112 (2004), the United -----> Citation
+----------------------------------------------------------------------------------------------------
+States Court of Appeals for Veterans Claims (hereinafter, 
+"the Court") held, in part, that a VCAA notice, as required 
+by 38 U.S.C.A. § 5103(a), must be provided to a claimant 
+before the initial unfavorable decision on a claim for VA 
+benefits by the agency of original jurisdiction (in this 
+case, the RO). -----> LegalRule
+----------------------------------------------------------------------------------------------------
+The Court also held, however, that providing 
+the VCAA notice to the claimant after the initial decision 
+could satisfy the requirements of the VCAA if the timing of 
+the notice was not prejudicial to the claimant. -----> LegalRule
+----------------------------------------------------------------------------------------------------
+Pelegrini, 
+18 Vet. App. at 121. -----> Citation
+----------------------------------------------------------------------------------------------------
+As will be discussed below, the VCAA provisions have been 
+considered and complied with. -----> EvidenceBasedOrIntermediateFinding
+----------------------------------------------------------------------------------------------------
+There is no indication that 
+there is additional evidence to obtain, there is no 
+additional notice that should be provided, and there has been 
+a complete review of all the evidence without prejudice to 
+the appellant. -----> EvidenceBasedOrIntermediateFinding
+----------------------------------------------------------------------------------------------------
+As such, there is no indication that there is 
+any prejudice to the appellant by the order of the events in 
+this case. -----> EvidenceBasedOrIntermediateFinding
+----------------------------------------------------------------------------------------------------
+See Mayfield v. Nicholson, 19 Vet. App. 103 
+(2005); Bernard v. Brown, 4 Vet. App. 384 (1993). -----> Citation
+----------------------------------------------------------------------------------------------------
+Any error 
+in the sequence of events is not shown to have any effect on 
+the case or to cause injury to the claimant. -----> EvidenceBasedOrIntermediateFinding
+----------------------------------------------------------------------------------------------------
+Consequently, 
+the Board concludes that any such error is harmless and does 
+not prohibit consideration of this matter on the merits. -----> EvidenceBasedOrIntermediateFinding
+----------------------------------------------------------------------------------------------------
+See 
+Mayfield, supra; ATD Corp. v. Lydall, Inc., 159 F.3d 534, 549 
+(Fed. Cir. 1998). -----> Citation
+----------------------------------------------------------------------------------------------------
+In this case, in letters dated in September 2002, January 
+2003, and October 2003, the RO provided notice to the veteran 
+regarding what information and evidence is needed to 
+substantiate the claim for service connection, as well as 
+what information and evidence must be submitted by the 
+veteran, what information and evidence will be obtained by 
+VA, and the need for the veteran to advise VA of or submit 
+any further evidence that pertains to the claim. -----> Evidence
+----------------------------------------------------------------------------------------------------
+The veteran and his representative were also provided with a 
+copy of the appealed rating decision, as well as an August 
+2004 Statement of the Case (SOC). -----> Evidence
+----------------------------------------------------------------------------------------------------
+These documents provided 
+them with notice of the law and governing regulations, as 
+well as the reasons for the determinations made regarding his 
+claim. -----> EvidenceBasedOrIntermediateFinding
+----------------------------------------------------------------------------------------------------
+By way of these documents, they also were 
+specifically informed of the cumulative evidence already 
+having been previously provided to VA or obtained by VA on 
+the veteran's behalf. -----> Evidence
+----------------------------------------------------------------------------------------------------
+Additionally, the SOC included a 
+summary of the relevant VCAA regulatory provisions of 
+38 C.F.R. § 3.159. -----> Evidence
+----------------------------------------------------------------------------------------------------
+Therefore, the Board finds that the 
+veteran was notified and aware of the evidence needed to 
+substantiate this claim, the avenues through which he might 
+obtain such evidence, and the allocation of responsibilities 
+between himself and VA in obtaining such evidence. -----> Evidence
+----------------------------------------------------------------------------------------------------
+Accordingly, there is no further duty to notify, and no 
+prejudice to the veteran exists by deciding the claim. -----> EvidenceBasedOrIntermediateFinding
+----------------------------------------------------------------------------------------------------
+The record also reflects that VA has made reasonable efforts 
+to obtain relevant records adequately identified by the 
+veteran. -----> Evidence
+----------------------------------------------------------------------------------------------------
+Specifically, the information and evidence that 
+have been associated with the claims file includes the 
+veteran's service medical records, service personnel records, 
+and post-service medical records and examination reports. -----> Evidence
+----------------------------------------------------------------------------------------------------
+Under the circumstances in this case, the veteran has 
+received the notice and assistance contemplated by law and 
+adjudication of the claim poses no risk of prejudice to the 
+veteran. -----> EvidenceBasedOrIntermediateFinding
+----------------------------------------------------------------------------------------------------
+See Mayfield, supra; Smith v. Gober, 14 Vet. App. 
+227 (2000), aff'd 281 F.3d 1384 (Fed. Cir. 2002); Dela Cruz 
+v. Principi, 15 Vet. App. 143 (2001) (VCAA does not require 
+remand where VA thoroughly discussed factual determinations 
+leading to conclusion and evidence of record provides 
+plausible basis for factual conclusions, and where 
+development of the evidence was as complete as was necessary 
+for a fair adjudication of the claims). -----> Citation
+----------------------------------------------------------------------------------------------------
+Law and Regulations -----> Header
+----------------------------------------------------------------------------------------------------
+Service connection may be granted for disability resulting 
+from disease or injury incurred in or aggravated by active 
+service. -----> LegalRule
+----------------------------------------------------------------------------------------------------
+38 U.S.C.A. § 1110; 38 C.F.R. § 3.303. -----> Citation
+----------------------------------------------------------------------------------------------------
+Service connection for PTSD requires medical evidence 
+diagnosing the condition 
+in accordance with 38 C.F.R. § 4.125(a) [i.e., under the 
+criteria of Diagnostic and Statistical Manual of Mental -----> LegalRule
+----------------------------------------------------------------------------------------------------
+Disorders, Fourth Edition (DSM-IV)]; a link, established by 
+medical evidence, between the veteran's current symptoms and 
+an 
+in-service stressor; and credible supporting evidence that 
+the claimed in-service stressor occurred. -----> LegalRule
+----------------------------------------------------------------------------------------------------
+If a PTSD claim is 
+based on in-service personal assault, evidence from sources 
+other than the veteran's service records may corroborate the 
+veteran's account of the stressor incident. -----> Evidence
+----------------------------------------------------------------------------------------------------
+38 C.F.R. § 
+3.304(f). -----> Citation
+----------------------------------------------------------------------------------------------------
+Analysis -----> Header
+----------------------------------------------------------------------------------------------------
+The Board has reviewed all the evidence in the appellant's 
+claims file, which includes:  his contentions, including 
+those raised at June 2004 and October 2005 VA hearings; 
+service medical and personnel records; VA medical records; 
+medical records from a Vet Center; a private psychological 
+evaluation; information from Fort Belvoir; and information 
+from the National Personnel Records Center. -----> Evidence
+----------------------------------------------------------------------------------------------------
+Although the  -----> Evidence
+----------------------------------------------------------------------------------------------------
+Board has an obligation to provide adequate reasons and bases 
+supporting this decision, there is no requirement that the 
+evidence submitted by the appellant or obtained on his behalf 
+be discussed in detail. -----> LegalRule
+----------------------------------------------------------------------------------------------------
+Rather, the Board's analysis below 
+will focus specifically on what evidence is needed to 
+substantiate the claim and what the evidence in the claims 
+file shows, or fails to show, with respect to the claim. -----> EvidenceBasedReasoning
+----------------------------------------------------------------------------------------------------
+See 
+Gonzales v. West, 218 F.3d 1378, 1380-81 (Fed. Cir. 2000) and -----> Citation
+----------------------------------------------------------------------------------------------------
+Timberlake v. Gober, 14 Vet. App. 122, 128-30 (2000). -----> Citation
+----------------------------------------------------------------------------------------------------
+The veteran contends that he has PTSD due to a personal 
+assault which occurred approximately between January and -----> Evidence
+----------------------------------------------------------------------------------------------------
+March 1970 while he was stationed at Fort Belvoir, Virginia. -----> Evidence
+----------------------------------------------------------------------------------------------------
+He asserts that the incident involved both sexual and 
+physical assault, and that he does not know the name of the 
+perpetrator, who was a cook at Fort Belvoir. -----> Evidence
+----------------------------------------------------------------------------------------------------
+By a January 
+2003 written statement and in subsequent testimony, he said 
+that during the attack, he was very drunk, and the 
+perpetrator punched him in the mouth, and a tooth was 
+loosened, cracked, or broken as a result. -----> Evidence
+----------------------------------------------------------------------------------------------------
+He said that he 
+was later found by a soldier on guard duty, and was taken by 
+military police to receive medical treatment. -----> Evidence
+----------------------------------------------------------------------------------------------------
+He later 
+received counseling from a mental health professional, whom 
+he only told about the physical aspects of the assault. -----> Evidence
+----------------------------------------------------------------------------------------------------
+The 
+doctor told him he would try to obtain a general discharge 
+for the veteran, but this did not occur. -----> Evidence
+----------------------------------------------------------------------------------------------------
+After this 
+incident, he went to his electronics school, and despite 
+failing this course, he was posted to Germany, where he 
+remained for the remainder of his active duty service. -----> Evidence
+----------------------------------------------------------------------------------------------------
+He 
+stated that he began to drink heavily after this incident. -----> Evidence
+----------------------------------------------------------------------------------------------------
+He said that the first time he ever told anyone about the 
+sexual aspect of the assault was at his November 2002 VA 
+examination. -----> Evidence
+----------------------------------------------------------------------------------------------------
+A review of the veteran's service medical records reflects 
+that in early January 1970, the veteran was brought to the 
+emergency room at DeWitt Army Hospital at Fort Belvoir by 
+military police, who reported that the veteran was 
+threatening to kill somebody, and did not want to be around 
+the people in his barracks because he did not like them. -----> Evidence
+----------------------------------------------------------------------------------------------------
+He 
+denied drinking and using drugs. -----> Evidence
+----------------------------------------------------------------------------------------------------
+This treatment note does 
+not identify any trauma. -----> Evidence
+----------------------------------------------------------------------------------------------------
+The examiner prescribed Valium. -----> Evidence
+----------------------------------------------------------------------------------------------------
+The report noted that the veteran would be seen in the mental 
+hygiene clinic in the morning. -----> Evidence
+----------------------------------------------------------------------------------------------------
+There are no records of such 
+follow-up treatment. -----> Evidence
+----------------------------------------------------------------------------------------------------
+On separation medical examination in 
+January 1972, the veteran's psychiatric system was listed as 
+normal. -----> Evidence
+----------------------------------------------------------------------------------------------------
+The service medical records are entirely negative 
+for psychiatric treatment, and are negative for a diagnosis 
+of a psychiatric disorder. -----> Evidence
+----------------------------------------------------------------------------------------------------
+Service medical records are also 
+negative for treatment of facial injuries or dental trauma, 
+and are negative for treatment of an assault. -----> Evidence
+----------------------------------------------------------------------------------------------------
+Service personnel records do not include any reports from the 
+military police about the alleged incident. -----> Evidence
+----------------------------------------------------------------------------------------------------
+The veteran's 
+records show that he received promotions to E-3 in June 1970, 
+and to E-4 in September 1970, and that he received a letter 
+of appreciation in December 1971 for his "outstanding and 
+conscientious ability to be a soldier...." -----> Evidence
+----------------------------------------------------------------------------------------------------
+Multiple attempts 
+to obtain additional service and personnel records have been 
+unsuccessful. -----> Evidence
+----------------------------------------------------------------------------------------------------
+At a November 2002 VA psychiatric examination, the examiner 
+noted that she had reviewed the veteran's claims file and 
+service medical records. -----> Evidence
+----------------------------------------------------------------------------------------------------
+Other than seeing a psychiatrist in 
+service two or three times, the veteran said he had never 
+received any outpatient or inpatient care for mental health 
+reasons. -----> Evidence
+----------------------------------------------------------------------------------------------------
+She summarized the veteran's description of the 
+alleged in-service assault. -----> Evidence
+----------------------------------------------------------------------------------------------------
+The veteran asserted that he had 
+become an alcoholic because of this event. -----> Evidence
+----------------------------------------------------------------------------------------------------
+He reported a 
+significant alcohol history, and said he began to drink very 
+heavily after separation from service. -----> Evidence
+----------------------------------------------------------------------------------------------------
+The Axis I diagnosis 
+was alcoholism. -----> Evidence
+----------------------------------------------------------------------------------------------------
+The examiner indicated that the veteran did 
+not display the signs and symptoms of someone suffering from 
+PTSD because his sleep was not impaired, he had very little 
+problems with panic, and he denied flashbacks, nightmares or 
+intrusive thoughts. -----> Evidence
+----------------------------------------------------------------------------------------------------
+She said that the veteran did not 
+display symptoms of a mental disorder other than substance 
+abuse, and this was unlikely to be due to the single event in 
+service. -----> Evidence
+----------------------------------------------------------------------------------------------------
+VA medical records from a Vet Center dated from 2003 to 2004 
+reflect that the veteran was diagnosed with PTSD due to 
+military sexual trauma. -----> Evidence
+----------------------------------------------------------------------------------------------------
+In February 2003, a counseling 
+therapist noted that the veteran's developmental history 
+included no information which would provide an alternative 
+diagnosis or an etiology other than the military sexual 
+trauma he reportedly experienced in service. -----> Evidence
+----------------------------------------------------------------------------------------------------
+A June 2003 private psychological evaluation from W. Paul, 
+Ph.D., reflects that the veteran was diagnosed with PTSD and 
+rule out alcohol abuse. -----> Evidence
+----------------------------------------------------------------------------------------------------
+Dr. Paul summarized the veteran's 
+reported history of sexual abuse in service, and noted that 
+the veteran complained of symptoms including insomnia, 
+exaggerated startle reactions, and flashbacks. -----> Evidence
+----------------------------------------------------------------------------------------------------
+The medical evidence reflects a difference of opinion as to 
+whether the veteran currently has PTSD. -----> EvidenceBasedReasoning
+----------------------------------------------------------------------------------------------------
+However, even 
+assuming that there is a valid diagnosis of PTSD under the 
+criteria of DSM-IV, service connection for PTSD also requires 
+credible evidence of an in-service stressor. -----> EvidenceBasedOrIntermediateFinding
+----------------------------------------------------------------------------------------------------
+38 C.F.R. § 
+3.304(f). -----> Citation
+----------------------------------------------------------------------------------------------------
+As to the existence of a stressor, a veteran's assertions of 
+non-combat service stressors are not sufficient to establish 
+their occurrence. -----> LegalRule
+----------------------------------------------------------------------------------------------------
+Rather, his alleged service stressors must 
+be established by official service records or other credible 
+supporting evidence. -----> LegalRule
+----------------------------------------------------------------------------------------------------
+38 C.F.R. § 3.304(f); Pentecost v. -----> Citation
+----------------------------------------------------------------------------------------------------
+Principi, 16 Vet. App. 124 (2002); Fossie v. West, 12 Vet. -----> Citation
+----------------------------------------------------------------------------------------------------
+App. 1 (1998); Cohen v. Brown, 10 Vet. App. 128 (1997); Doran 
+v. Brown, 6 Vet. App. 283 (1994). -----> Citation
+----------------------------------------------------------------------------------------------------
+There is no evidence which corroborates the occurrence of the 
+stressor alleged by the veteran. -----> EvidenceBasedReasoning
+----------------------------------------------------------------------------------------------------
+The Board is unable to find 
+that the veteran's alleged service stressor has been verified 
+by official service records or other credible supporting 
+evidence. -----> EvidenceBasedReasoning
+----------------------------------------------------------------------------------------------------
+The weight of the credible evidence establishes that a 
+stressor which might lead to PTSD did not occur in service. -----> EvidenceBasedReasoning
+----------------------------------------------------------------------------------------------------
+Thus, regardless of diagnosis, service connection for PTSD 
+may not be granted. -----> EvidenceBasedOrIntermediateFinding
+----------------------------------------------------------------------------------------------------
+The veteran may apply to reopen his 
+claim in the future, by submitting independent evidence to 
+corroborate a service stressor, or by submitting sufficiently 
+detailed information as would permit the VA to attempt 
+stressor verification through the service department. -----> EvidenceBasedReasoning
+----------------------------------------------------------------------------------------------------
+See 38  -----> Citation
+----------------------------------------------------------------------------------------------------
+C.F.R. § 3.159(c)(2). -----> Citation
+----------------------------------------------------------------------------------------------------
+As the preponderance of the evidence is against the claim for 
+service connection for PTSD, the benefit-of-the-doubt rule 
+does not apply, and the claim must be denied. -----> EvidenceBasedOrIntermediateFinding
+----------------------------------------------------------------------------------------------------
+38 U.S.C.A. § 
+5107(b); Gilbert v. Derwinski, 1 Vet. App. 49 (1990). -----> Citation
+----------------------------------------------------------------------------------------------------
+ORDER -----> Header
+----------------------------------------------------------------------------------------------------
+Service connection for PTSD is denied. -----> ConclusionOfLaw
+----------------------------------------------------------------------------------------------------
+K. A. BANFIELD -----> Citation
+----------------------------------------------------------------------------------------------------
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+
+
+ Department of Veterans Affairs -----> Header
