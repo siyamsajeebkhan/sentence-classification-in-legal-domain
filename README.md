@@ -1,5 +1,8 @@
-After decompressing just run the following commands inside the code folder in the terminal:
-
+```
+git clone https://github.com/siyamsajeebkhan/legalds_project.git
+cd code
+```
+Then run the following commands:
 ```
 python3 -m venv test #Used Python 3.6.9 originally
 source test/bin/activate
